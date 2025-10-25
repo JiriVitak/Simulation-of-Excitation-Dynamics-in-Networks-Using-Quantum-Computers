@@ -1,6 +1,6 @@
 # Simulation-of-Excitation-Dynamics-in-Networks-Using-Quantum-Computers
 
-This project is a  **Science project**, which is a compulsory one-year project, done under supervision of **Dr. Iskender Yalcinkaya**.
+This project is a mandatory one-year **Science project** completed under the guidance of **Dr. Iskender Yalcinkaya**.
 
 Successfully defended in September 2025 with grade **A** (Excellent).
 
